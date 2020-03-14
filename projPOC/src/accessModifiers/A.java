@@ -16,4 +16,6 @@ public class A {
 		System.out.println(obj.d);
 	}
 
+	// Practice
+	
 }
